@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react'
 export default function App() {
   const [products, setProducts] = useState([])
   const [filteredProducts, setFilteredProducts] = useState([])
+  const [imageMapping, setImageMapping] = useState({})
   const [loading, setLoading] = useState(true)
   const [wishlist, setWishlist] = useState([])
   const [selectedProduct, setSelectedProduct] = useState(null)
@@ -14,15 +15,24 @@ export default function App() {
   })
 
   useEffect(() => {
+    // Load products database
     fetch('/products_database.json')
       .then(r => r.json())
       .then(data => {
         setProducts(data.products)
         setFilteredProducts(data.products)
+      })
+      .catch(err => console.error('Error loading products:', err))
+    
+    // Load image mapping
+    fetch('/image_mapping.json')
+      .then(r => r.json())
+      .then(data => {
+        setImageMapping(data.products_images || {})
         setLoading(false)
       })
       .catch(err => {
-        console.error('Error loading products:', err)
+        console.error('Error loading image mapping:', err)
         setLoading(false)
       })
   }, [])
@@ -68,6 +78,14 @@ export default function App() {
   }
 
   const isInWishlist = (productId) => wishlist.includes(productId)
+
+  const getProductImage = (supplierStyleId) => {
+    const imagePath = imageMapping[supplierStyleId]
+    if (imagePath) {
+      return imagePath
+    }
+    return null
+  }
 
   if (loading) {
     return (
@@ -180,83 +198,94 @@ export default function App() {
           </div>
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {filteredProducts.map(product => (
-              <div key={product.id} className="bg-white rounded-lg shadow hover:shadow-lg transition flex flex-col h-full">
-                {/* Image Container with wishlist button */}
-                <div className="relative">
-                  <div className="w-full h-48 bg-gray-200 flex items-center justify-center">
-                    <span className="text-gray-400">No image</span>
+            {filteredProducts.map(product => {
+              const imageUrl = getProductImage(product.supplier_style_id)
+              return (
+                <div key={product.id} className="bg-white rounded-lg shadow hover:shadow-lg transition flex flex-col h-full">
+                  {/* Image Container with wishlist button */}
+                  <div className="relative">
+                    {imageUrl ? (
+                      <img
+                        src={imageUrl}
+                        alt={product.product_name}
+                        className="w-full h-48 object-cover rounded-t-lg"
+                      />
+                    ) : (
+                      <div className="w-full h-48 bg-gray-200 flex items-center justify-center rounded-t-lg">
+                        <span className="text-gray-400">No image</span>
+                      </div>
+                    )}
+                    
+                    {/* Wishlist Button - Top Right */}
+                    <button
+                      onClick={() => toggleWishlist(product.id)}
+                      className="absolute top-3 right-3 p-2 rounded-full bg-white shadow hover:bg-gray-50 transition"
+                    >
+                      <span className="text-2xl">
+                        {isInWishlist(product.id) ? '❤️' : '🤍'}
+                      </span>
+                    </button>
                   </div>
-                  
-                  {/* Wishlist Button - Top Right */}
-                  <button
-                    onClick={() => toggleWishlist(product.id)}
-                    className="absolute top-3 right-3 p-2 rounded-full bg-white shadow hover:bg-gray-50 transition"
-                  >
-                    <span className="text-2xl">
-                      {isInWishlist(product.id) ? '❤️' : '🤍'}
-                    </span>
-                  </button>
-                </div>
 
-                {/* Stock Badge - Below image, full width */}
-                <div className="px-4 pt-3">
-                  {product.inventory.status === 'in_stock' && (
-                    <div className="inline-block px-3 py-1 bg-green-100 text-green-800 text-xs font-semibold rounded-full">
-                      ✓ IN STOCK
-                    </div>
-                  )}
-                  {product.inventory.status === 'pre_order' && (
-                    <div className="inline-block px-3 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded-full">
-                      📅 PRE-ORDER
-                    </div>
-                  )}
-                </div>
-
-                {/* Content */}
-                <div className="p-4 flex flex-col flex-1">
-                  <h3 className="font-semibold text-gray-900 line-clamp-2 mb-2">{product.product_name}</h3>
-                  <p className="text-sm text-gray-600 mb-3">{product.supplier}</p>
-                  
-                  {/* Inventory Info */}
-                  <div className="mt-2 text-sm mb-4">
+                  {/* Stock Badge - Below image, full width */}
+                  <div className="px-4 pt-3">
                     {product.inventory.status === 'in_stock' && (
-                      <p className="text-green-700 font-medium">
-                        {product.inventory.total_available_now} in stock
-                      </p>
+                      <div className="inline-block px-3 py-1 bg-green-100 text-green-800 text-xs font-semibold rounded-full">
+                        ✓ IN STOCK
+                      </div>
                     )}
                     {product.inventory.status === 'pre_order' && (
-                      <p className="text-blue-700 font-medium">
-                        Pre-order available
-                        <br />
-                        ETA: {product.availability.estimated_available_date_display}
-                      </p>
+                      <div className="inline-block px-3 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded-full">
+                        📅 PRE-ORDER
+                      </div>
                     )}
                   </div>
 
-                  {/* Pricing */}
-                  <div className="mt-auto mb-4">
-                    <div className="flex items-baseline gap-2">
-                      <span className="text-2xl font-bold text-gray-900">
-                        \${(product.pricing.msrp * 0.35).toFixed(2)}
-                      </span>
-                      <span className="text-sm text-gray-500 line-through">
-                        \${product.pricing.msrp.toFixed(2)}
-                      </span>
-                      <span className="text-xs font-semibold text-green-700">65% OFF</span>
+                  {/* Content */}
+                  <div className="p-4 flex flex-col flex-1">
+                    <h3 className="font-semibold text-gray-900 line-clamp-2 mb-2">{product.product_name}</h3>
+                    <p className="text-sm text-gray-600 mb-3">{product.supplier}</p>
+                    
+                    {/* Inventory Info */}
+                    <div className="mt-2 text-sm mb-4">
+                      {product.inventory.status === 'in_stock' && (
+                        <p className="text-green-700 font-medium">
+                          {product.inventory.total_available_now} in stock
+                        </p>
+                      )}
+                      {product.inventory.status === 'pre_order' && (
+                        <p className="text-blue-700 font-medium">
+                          Pre-order available
+                          <br />
+                          ETA: {product.availability.estimated_available_date_display}
+                        </p>
+                      )}
                     </div>
-                  </div>
 
-                  {/* Button */}
-                  <button
-                    onClick={() => setSelectedProduct(product)}
-                    className="w-full px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 font-medium"
-                  >
-                    View Details
-                  </button>
+                    {/* Pricing */}
+                    <div className="mt-auto mb-4">
+                      <div className="flex items-baseline gap-2">
+                        <span className="text-2xl font-bold text-gray-900">
+                          \${(product.pricing.msrp * 0.35).toFixed(2)}
+                        </span>
+                        <span className="text-sm text-gray-500 line-through">
+                          \${product.pricing.msrp.toFixed(2)}
+                        </span>
+                        <span className="text-xs font-semibold text-green-700">65% OFF</span>
+                      </div>
+                    </div>
+
+                    {/* Button */}
+                    <button
+                      onClick={() => setSelectedProduct(product)}
+                      className="w-full px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 font-medium"
+                    >
+                      View Details
+                    </button>
+                  </div>
                 </div>
-              </div>
-            ))}
+              )
+            })}
           </div>
         )}
       </div>
