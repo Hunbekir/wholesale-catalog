@@ -4,6 +4,8 @@ export default function App() {
   const [products, setProducts] = useState([])
   const [filteredProducts, setFilteredProducts] = useState([])
   const [loading, setLoading] = useState(true)
+  const [wishlist, setWishlist] = useState([])
+  const [selectedProduct, setSelectedProduct] = useState(null)
   const [filters, setFilters] = useState({
     category: 'All',
     status: 'All',
@@ -57,6 +59,16 @@ export default function App() {
     })
   }
 
+  const toggleWishlist = (productId) => {
+    setWishlist(prev =>
+      prev.includes(productId)
+        ? prev.filter(id => id !== productId)
+        : [...prev, productId]
+    )
+  }
+
+  const isInWishlist = (productId) => wishlist.includes(productId)
+
   if (loading) {
     return (
       <div className="flex items-center justify-center h-screen bg-gray-50">
@@ -72,9 +84,15 @@ export default function App() {
     <div className="min-h-screen bg-gray-50">
       {/* Header */}
       <div className="bg-white border-b">
-        <div className="max-w-7xl mx-auto px-4 py-8">
-          <h1 className="text-4xl font-bold text-gray-900">B2B Wholesale Catalog</h1>
-          <p className="text-gray-600 mt-2">Real-time inventory with pre-order capability</p>
+        <div className="max-w-7xl mx-auto px-4 py-8 flex justify-between items-center">
+          <div>
+            <h1 className="text-4xl font-bold text-gray-900">B2B Wholesale Catalog</h1>
+            <p className="text-gray-600 mt-2">Real-time inventory with pre-order capability</p>
+          </div>
+          <div className="text-right">
+            <div className="text-2xl">❤️ {wishlist.length}</div>
+            <p className="text-sm text-gray-600">Wishlist</p>
+          </div>
         </div>
       </div>
 
@@ -163,7 +181,17 @@ export default function App() {
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredProducts.map(product => (
-              <div key={product.id} className="bg-white rounded-lg shadow hover:shadow-lg transition">
+              <div key={product.id} className="bg-white rounded-lg shadow hover:shadow-lg transition relative">
+                {/* Wishlist Button */}
+                <button
+                  onClick={() => toggleWishlist(product.id)}
+                  className="absolute top-3 right-3 z-10 p-2 rounded-full bg-white shadow hover:bg-gray-50 transition"
+                >
+                  <span className="text-2xl">
+                    {isInWishlist(product.id) ? '❤️' : '🤍'}
+                  </span>
+                </button>
+
                 {/* Image placeholder */}
                 <div className="w-full h-48 bg-gray-200 rounded-t-lg flex items-center justify-center">
                   <span className="text-gray-400">No image</span>
@@ -171,12 +199,12 @@ export default function App() {
 
                 {/* Stock Badge */}
                 {product.inventory.status === 'in_stock' && (
-                  <div className="absolute mt-2 ml-4 px-2 py-1 bg-green-100 text-green-800 text-xs font-semibold rounded">
+                  <div className="absolute top-3 left-3 px-2 py-1 bg-green-100 text-green-800 text-xs font-semibold rounded">
                     ✓ IN STOCK
                   </div>
                 )}
                 {product.inventory.status === 'pre_order' && (
-                  <div className="absolute mt-2 ml-4 px-2 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded">
+                  <div className="absolute top-3 left-3 px-2 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded">
                     📅 PRE-ORDER
                   </div>
                 )}
@@ -214,7 +242,10 @@ export default function App() {
                   </div>
 
                   {/* Button */}
-                  <button className="w-full mt-4 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 font-medium">
+                  <button
+                    onClick={() => setSelectedProduct(product)}
+                    className="w-full mt-4 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 font-medium"
+                  >
                     View Details
                   </button>
                 </div>
@@ -223,6 +254,120 @@ export default function App() {
           </div>
         )}
       </div>
+
+      {/* Details Modal */}
+      {selectedProduct && (
+        <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center p-4 z-50">
+          <div className="bg-white rounded-lg max-w-2xl w-full max-h-96 overflow-y-auto">
+            {/* Modal Header */}
+            <div className="sticky top-0 bg-white border-b p-6 flex justify-between items-start">
+              <div>
+                <h2 className="text-2xl font-bold text-gray-900">{selectedProduct.product_name}</h2>
+                <p className="text-gray-600 mt-1">{selectedProduct.supplier}</p>
+              </div>
+              <button
+                onClick={() => setSelectedProduct(null)}
+                className="text-2xl text-gray-500 hover:text-gray-700 font-bold"
+              >
+                ✕
+              </button>
+            </div>
+
+            {/* Modal Body */}
+            <div className="p-6 space-y-6">
+              {/* Specifications */}
+              <div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-3">Specifications</h3>
+                <div className="bg-gray-50 p-4 rounded space-y-2">
+                  {selectedProduct.specifications.color && (
+                    <div className="flex justify-between">
+                      <span className="text-gray-600">Color:</span>
+                      <span className="font-medium">{selectedProduct.specifications.color}</span>
+                    </div>
+                  )}
+                  {selectedProduct.specifications.size && (
+                    <div className="flex justify-between">
+                      <span className="text-gray-600">Size:</span>
+                      <span className="font-medium">{selectedProduct.specifications.size}</span>
+                    </div>
+                  )}
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">Supplier Style ID:</span>
+                    <span className="font-medium">{selectedProduct.supplier_style_id}</span>
+                  </div>
+                </div>
+              </div>
+
+              {/* Inventory */}
+              <div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-3">Inventory Status</h3>
+                <div className="bg-gray-50 p-4 rounded space-y-3">
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">Total Available:</span>
+                    <span className="font-bold text-lg">{selectedProduct.inventory.total_all} units</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">Available Now:</span>
+                    <span className="font-medium">{selectedProduct.inventory.total_available_now} units</span>
+                  </div>
+                  <div className="flex justify-between">
+                    <span className="text-gray-600">Status:</span>
+                    <span className="font-medium capitalize">{selectedProduct.inventory.status.replace('_', ' ')}</span>
+                  </div>
+                  {selectedProduct.inventory.next_arrival && (
+                    <div className="border-t pt-3">
+                      <p className="text-sm text-gray-600">Next Arrival:</p>
+                      <p className="font-medium">{selectedProduct.inventory.next_arrival.date_display}</p>
+                    </div>
+                  )}
+                </div>
+              </div>
+
+              {/* Pricing Tiers */}
+              <div>
+                <h3 className="text-lg font-semibold text-gray-900 mb-3">Volume Pricing</h3>
+                <div className="space-y-2">
+                  {selectedProduct.pricing.tiers.map((tier, idx) => (
+                    <div key={idx} className="flex justify-between items-center bg-gray-50 p-3 rounded">
+                      <div>
+                        <p className="font-medium text-gray-900">{tier.quantity_description}</p>
+                        <p className="text-sm text-gray-600">{tier.discount_percent}% OFF</p>
+                      </div>
+                      <p className="text-xl font-bold text-gray-900">\${tier.wholesale_price.toFixed(2)}</p>
+                    </div>
+                  ))}
+                </div>
+              </div>
+
+              {/* MSRP Info */}
+              <div className="border-t pt-4">
+                <div className="flex justify-between items-center">
+                  <span className="text-gray-600">MSRP (Unit Retail):</span>
+                  <span className="text-2xl font-bold text-gray-900">\${selectedProduct.pricing.msrp.toFixed(2)}</span>
+                </div>
+              </div>
+            </div>
+
+            {/* Modal Footer */}
+            <div className="bg-gray-50 p-6 border-t flex gap-3">
+              <button
+                onClick={() => setSelectedProduct(null)}
+                className="flex-1 px-4 py-3 bg-gray-200 text-gray-800 rounded-lg hover:bg-gray-300 font-medium"
+              >
+                Close
+              </button>
+              <button
+                onClick={() => {
+                  toggleWishlist(selectedProduct.id)
+                }}
+                className="flex-1 px-4 py-3 bg-red-600 text-white rounded-lg hover:bg-red-700 font-medium"
+              >
+                {isInWishlist(selectedProduct.id) ? '❤️ Remove from Wishlist' : '🤍 Add to Wishlist'}
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }
