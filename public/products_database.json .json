@@ -1,0 +1,6528 @@
+{
+  "products": [
+    {
+      "id": "76b788e8",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS111",
+      "product_name": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW - 2 IVORY",
+      "specifications": {
+        "size": "20\" X 12\"",
+        "color": "2 IVORY"
+      },
+      "pricing": {
+        "msrp": 36.0,
+        "wholesale_cost": 12.6,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 12.6
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 11.52
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 10.8
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.08
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "520cfc70",
+            "quantity": 60,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 60,
+        "total_available_future": 0,
+        "total_all": 60,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 60,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.489074"
+    },
+    {
+      "id": "ffdd26ed",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS111",
+      "product_name": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW - 6-GREY",
+      "specifications": {
+        "size": "20\" X 12\"",
+        "color": "6-GREY"
+      },
+      "pricing": {
+        "msrp": 36.0,
+        "wholesale_cost": 12.6,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 12.6
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 11.52
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 10.8
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.08
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "57274896",
+            "quantity": 60,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 60,
+        "total_available_future": 0,
+        "total_all": 60,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 60,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.489220"
+    },
+    {
+      "id": "5fe12a07",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS111",
+      "product_name": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW - 5-TAUPE",
+      "specifications": {
+        "size": "20\" X 12\"",
+        "color": "5-TAUPE"
+      },
+      "pricing": {
+        "msrp": 36.0,
+        "wholesale_cost": 12.6,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 12.6
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 11.52
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 10.8
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.08
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "7f53a34a",
+            "quantity": 60,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 60,
+        "total_available_future": 0,
+        "total_all": 60,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 60,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.489356"
+    },
+    {
+      "id": "07e10d10",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS111",
+      "product_name": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW - 10-LIGHT BLUE",
+      "specifications": {
+        "size": "20\" X 12\"",
+        "color": "10-LIGHT BLUE"
+      },
+      "pricing": {
+        "msrp": 36.0,
+        "wholesale_cost": 12.6,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 12.6
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 11.52
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 10.8
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.08
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "f2e57765",
+            "quantity": 60,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 60,
+        "total_available_future": 0,
+        "total_all": 60,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 60,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.489502"
+    },
+    {
+      "id": "f62f6529",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS111",
+      "product_name": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE FAUX FEATHER LUMBAR PILLOW - 11-DARK BLUSH",
+      "specifications": {
+        "size": "20\" X 12\"",
+        "color": "11-DARK BLUSH"
+      },
+      "pricing": {
+        "msrp": 36.0,
+        "wholesale_cost": 12.6,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 12.6
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 11.52
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 10.8
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.08
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "91682527",
+            "quantity": 40,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 40,
+        "total_available_future": 0,
+        "total_all": 40,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 40,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.489614"
+    },
+    {
+      "id": "7dbb6abb",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS112",
+      "product_name": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW - CHAMPAGNE",
+      "specifications": {
+        "size": "Dia 14\" X H 4\"",
+        "color": "CHAMPAGNE"
+      },
+      "pricing": {
+        "msrp": 38.0,
+        "wholesale_cost": 13.299999999999999,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 13.3
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 12.16
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 11.4
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.64
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "3b426071",
+            "quantity": 40,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 40,
+        "total_available_future": 0,
+        "total_all": 40,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 40,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.489855"
+    },
+    {
+      "id": "a4e5cac7",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS112",
+      "product_name": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW - BURGUNDY",
+      "specifications": {
+        "size": "Dia 14\" X H 4\"",
+        "color": "BURGUNDY"
+      },
+      "pricing": {
+        "msrp": 38.0,
+        "wholesale_cost": 13.299999999999999,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 13.3
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 12.16
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 11.4
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.64
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "838804eb",
+            "quantity": 40,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 40,
+        "total_available_future": 0,
+        "total_all": 40,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 40,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.489997"
+    },
+    {
+      "id": "f57d135e",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS112",
+      "product_name": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW - SAGE",
+      "specifications": {
+        "size": "Dia 14\" X H 4\"",
+        "color": "SAGE"
+      },
+      "pricing": {
+        "msrp": 38.0,
+        "wholesale_cost": 13.299999999999999,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 13.3
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 12.16
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 11.4
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.64
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "578f848d",
+            "quantity": 40,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 40,
+        "total_available_future": 0,
+        "total_all": 40,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 40,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.490186"
+    },
+    {
+      "id": "2a886484",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS112",
+      "product_name": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW - GREY",
+      "specifications": {
+        "size": "Dia 14\" X H 4\"",
+        "color": "GREY"
+      },
+      "pricing": {
+        "msrp": 38.0,
+        "wholesale_cost": 13.299999999999999,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 13.3
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 12.16
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 11.4
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.64
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "7eb419d9",
+            "quantity": 40,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 40,
+        "total_available_future": 0,
+        "total_all": 40,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 40,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.490324"
+    },
+    {
+      "id": "5887a974",
+      "supplier": "Townhouse",
+      "supplier_style_id": "MS112",
+      "product_name": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW",
+      "category": "Bedding",
+      "subcategory": "Pillows (September ETA)",
+      "description": "TOWNHOUSE ROUND TUFTED  VELVET PILLOW - NAVY",
+      "specifications": {
+        "size": "Dia 14\" X H 4\"",
+        "color": "NAVY"
+      },
+      "pricing": {
+        "msrp": 38.0,
+        "wholesale_cost": 13.299999999999999,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 13.3
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 12.16
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 11.4
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 10.64
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "2a68ea75",
+            "quantity": 40,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 40,
+        "total_available_future": 0,
+        "total_all": 40,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 40,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "pillows (september eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.490461"
+    },
+    {
+      "id": "abc59503",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - NAVAL ACADEMY",
+      "specifications": {
+        "size": "TWIN",
+        "color": "NAVAL ACADEMY"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "62fbdc5d",
+            "quantity": 16,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 16,
+        "total_available_future": 0,
+        "total_all": 16,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 16,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.514745"
+    },
+    {
+      "id": "e6f33ea6",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - NAVAL ACADEMY",
+      "specifications": {
+        "size": "FULL",
+        "color": "NAVAL ACADEMY"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "fc33d0b6",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.515122"
+    },
+    {
+      "id": "c1d948f8",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - NAVAL ACADEMY",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "NAVAL ACADEMY"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "17cde343",
+            "quantity": 24,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 24,
+        "total_available_future": 0,
+        "total_all": 24,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 24,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.515429"
+    },
+    {
+      "id": "bf53503c",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - NAVAL ACADEMY",
+      "specifications": {
+        "size": "KING",
+        "color": "NAVAL ACADEMY"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "ad52c783",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.515714"
+    },
+    {
+      "id": "8fa06a39",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - OYSTER MUSHROOM",
+      "specifications": {
+        "size": "TWIN",
+        "color": "OYSTER MUSHROOM"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "b185ae03",
+            "quantity": 16,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 16,
+        "total_available_future": 0,
+        "total_all": 16,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 16,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.516158"
+    },
+    {
+      "id": "4f6f8f0f",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - OYSTER MUSHROOM",
+      "specifications": {
+        "size": "FULL",
+        "color": "OYSTER MUSHROOM"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "ed29e1f8",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.516456"
+    },
+    {
+      "id": "1134deaf",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - OYSTER MUSHROOM",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "OYSTER MUSHROOM"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "aa26bbf0",
+            "quantity": 24,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 24,
+        "total_available_future": 0,
+        "total_all": 24,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 24,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.516739"
+    },
+    {
+      "id": "bcbaf0e1",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - OYSTER MUSHROOM",
+      "specifications": {
+        "size": "KING",
+        "color": "OYSTER MUSHROOM"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "561be137",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.517050"
+    },
+    {
+      "id": "da05d342",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - PERFECTLY PALE",
+      "specifications": {
+        "size": "TWIN",
+        "color": "PERFECTLY PALE"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "ea85c7af",
+            "quantity": 16,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 16,
+        "total_available_future": 0,
+        "total_all": 16,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 16,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.517437"
+    },
+    {
+      "id": "83f6d7ea",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - PERFECTLY PALE",
+      "specifications": {
+        "size": "FULL",
+        "color": "PERFECTLY PALE"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "3627830d",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.517745"
+    },
+    {
+      "id": "a2875d87",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - PERFECTLY PALE",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "PERFECTLY PALE"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "d66441e4",
+            "quantity": 24,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 24,
+        "total_available_future": 0,
+        "total_all": 24,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 24,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.518114"
+    },
+    {
+      "id": "7153ab2c",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - PERFECTLY PALE",
+      "specifications": {
+        "size": "KING",
+        "color": "PERFECTLY PALE"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "21e51025",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.518451"
+    },
+    {
+      "id": "a854b4f9",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - HUSHED VIOLET",
+      "specifications": {
+        "size": "TWIN",
+        "color": "HUSHED VIOLET"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "386fc778",
+            "quantity": 16,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 16,
+        "total_available_future": 0,
+        "total_all": 16,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 16,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.518906"
+    },
+    {
+      "id": "f865554e",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - HUSHED VIOLET",
+      "specifications": {
+        "size": "FULL",
+        "color": "HUSHED VIOLET"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "13bb614b",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.519312"
+    },
+    {
+      "id": "19b624fe",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - HUSHED VIOLET",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "HUSHED VIOLET"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "34b8fdce",
+            "quantity": 24,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 24,
+        "total_available_future": 0,
+        "total_all": 24,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 24,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.519607"
+    },
+    {
+      "id": "219be304",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - HUSHED VIOLET",
+      "specifications": {
+        "size": "KING",
+        "color": "HUSHED VIOLET"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "9250fcc4",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.519888"
+    },
+    {
+      "id": "ae651b9f",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/BLUE",
+      "specifications": {
+        "size": "TWIN",
+        "color": "WHITE/BLUE"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "795886ab",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "June 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "June 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "June 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.520329"
+    },
+    {
+      "id": "bbae66ac",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/BLUE",
+      "specifications": {
+        "size": "FULL",
+        "color": "WHITE/BLUE"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "f517180a",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "June 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "June 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "June 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.520639"
+    },
+    {
+      "id": "8c0ec508",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/BLUE",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "WHITE/BLUE"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "cebe57a2",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "June 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "June 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "June 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.520941"
+    },
+    {
+      "id": "d58cbbf6",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/BLUE",
+      "specifications": {
+        "size": "KING",
+        "color": "WHITE/BLUE"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "cacceef0",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "June 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "June 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "June 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.521372"
+    },
+    {
+      "id": "2a5a6daa",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/GREY",
+      "specifications": {
+        "size": "TWIN",
+        "color": "WHITE/GREY"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "a0a55390",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "June 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "June 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "June 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.521784"
+    },
+    {
+      "id": "d57942a4",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/GREY",
+      "specifications": {
+        "size": "FULL",
+        "color": "WHITE/GREY"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "9e85b016",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "June 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "June 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "June 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.522133"
+    },
+    {
+      "id": "807656a7",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/GREY",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "WHITE/GREY"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "03120d8d",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "June 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "June 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "June 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.522450"
+    },
+    {
+      "id": "1b615add",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Micro Sheet Sets (June ETA)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/GREY",
+      "specifications": {
+        "size": "KING",
+        "color": "WHITE/GREY"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "June 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "7ce306e6",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "June 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "June 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "June 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "micro sheet sets (june eta)"
+      ],
+      "created_at": "2026-05-25T00:42:15.522831"
+    },
+    {
+      "id": "12e35f26",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - NAVAL ACADEMY",
+      "specifications": {
+        "size": "TWIN",
+        "color": "NAVAL ACADEMY"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "331cd6a3",
+            "quantity": 16,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 16,
+        "total_available_future": 0,
+        "total_all": 16,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 16,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.610227"
+    },
+    {
+      "id": "f6801cae",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - NAVAL ACADEMY",
+      "specifications": {
+        "size": "FULL",
+        "color": "NAVAL ACADEMY"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "927495d0",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.610666"
+    },
+    {
+      "id": "c278aca5",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - NAVAL ACADEMY",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "NAVAL ACADEMY"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "865ba6bd",
+            "quantity": 24,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 24,
+        "total_available_future": 0,
+        "total_all": 24,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 24,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.610970"
+    },
+    {
+      "id": "a6dcdee7",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - NAVAL ACADEMY",
+      "specifications": {
+        "size": "KING",
+        "color": "NAVAL ACADEMY"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "1cc59094",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.611306"
+    },
+    {
+      "id": "b840117a",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - OYSTER MUSHROOM",
+      "specifications": {
+        "size": "TWIN",
+        "color": "OYSTER MUSHROOM"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "a569d13d",
+            "quantity": 16,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 16,
+        "total_available_future": 0,
+        "total_all": 16,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 16,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.611687"
+    },
+    {
+      "id": "f55c172f",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - OYSTER MUSHROOM",
+      "specifications": {
+        "size": "FULL",
+        "color": "OYSTER MUSHROOM"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "4b5e183d",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.611967"
+    },
+    {
+      "id": "d95e2ae3",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - OYSTER MUSHROOM",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "OYSTER MUSHROOM"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "af7f8b19",
+            "quantity": 24,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 24,
+        "total_available_future": 0,
+        "total_all": 24,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 24,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.612308"
+    },
+    {
+      "id": "bab549d9",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - OYSTER MUSHROOM",
+      "specifications": {
+        "size": "KING",
+        "color": "OYSTER MUSHROOM"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "e686e89a",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.612602"
+    },
+    {
+      "id": "fc8dd29c",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - PERFECTLY PALE",
+      "specifications": {
+        "size": "TWIN",
+        "color": "PERFECTLY PALE"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "b332f96d",
+            "quantity": 16,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 16,
+        "total_available_future": 0,
+        "total_all": 16,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 16,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.612965"
+    },
+    {
+      "id": "fd4e0578",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - PERFECTLY PALE",
+      "specifications": {
+        "size": "FULL",
+        "color": "PERFECTLY PALE"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "e3ad331c",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.613288"
+    },
+    {
+      "id": "eff1f91c",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - PERFECTLY PALE",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "PERFECTLY PALE"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "d5291ca1",
+            "quantity": 24,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 24,
+        "total_available_future": 0,
+        "total_all": 24,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 24,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.613572"
+    },
+    {
+      "id": "4ed231cf",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - PERFECTLY PALE",
+      "specifications": {
+        "size": "KING",
+        "color": "PERFECTLY PALE"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "660861fa",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.613878"
+    },
+    {
+      "id": "f3979056",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - HUSHED VIOLET",
+      "specifications": {
+        "size": "TWIN",
+        "color": "HUSHED VIOLET"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "239c3a13",
+            "quantity": 16,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 16,
+        "total_available_future": 0,
+        "total_all": 16,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 16,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.614311"
+    },
+    {
+      "id": "7cf9b9d0",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - HUSHED VIOLET",
+      "specifications": {
+        "size": "FULL",
+        "color": "HUSHED VIOLET"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "5540ef0e",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.614647"
+    },
+    {
+      "id": "9b0ff9d1",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - HUSHED VIOLET",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "HUSHED VIOLET"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "c93e791e",
+            "quantity": 24,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 24,
+        "total_available_future": 0,
+        "total_all": 24,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 24,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.614932"
+    },
+    {
+      "id": "923e3d2b",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-SLD80-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  SOLID SHEET SET 80GSM - HUSHED VIOLET",
+      "specifications": {
+        "size": "KING",
+        "color": "HUSHED VIOLET"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "a2215cae",
+            "quantity": 12,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 12,
+        "total_available_future": 0,
+        "total_all": 12,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 12,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.615258"
+    },
+    {
+      "id": "6c87f787",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/BLUE",
+      "specifications": {
+        "size": "TWIN",
+        "color": "WHITE/BLUE"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "91ef8b33",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "September 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "September 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "September 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.615652"
+    },
+    {
+      "id": "4c95b89e",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/BLUE",
+      "specifications": {
+        "size": "FULL",
+        "color": "WHITE/BLUE"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "105320fd",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "September 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "September 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "September 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.615953"
+    },
+    {
+      "id": "46a962c9",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/BLUE",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "WHITE/BLUE"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "a6a9d1fb",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "September 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "September 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "September 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.616311"
+    },
+    {
+      "id": "16434578",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/BLUE",
+      "specifications": {
+        "size": "KING",
+        "color": "WHITE/BLUE"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "69a62e87",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "September 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "September 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "September 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.616690"
+    },
+    {
+      "id": "2d5fa07e",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-T",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/GREY",
+      "specifications": {
+        "size": "TWIN",
+        "color": "WHITE/GREY"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "8fda9711",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "September 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "September 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "September 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.617169"
+    },
+    {
+      "id": "5b4f271b",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-F",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/GREY",
+      "specifications": {
+        "size": "FULL",
+        "color": "WHITE/GREY"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "9cd0fda4",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "September 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "September 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "September 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.617494"
+    },
+    {
+      "id": "92808100",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-Q",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/GREY",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "WHITE/GREY"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "dc8f36c1",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "September 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "September 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "September 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.617797"
+    },
+    {
+      "id": "59b551a9",
+      "supplier": "Townhouse",
+      "supplier_style_id": "TH25-PRT125-K",
+      "product_name": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM",
+      "category": "Bedding",
+      "subcategory": "Solid Sheet Sets (Fall 2025)",
+      "description": "TOWNHOUSE MICROFIBER EASY CARE  PRINTED SHEET SET 125GSM - WHITE/GREY",
+      "specifications": {
+        "size": "KING",
+        "color": "WHITE/GREY"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "September 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "b20f256b",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "September 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "September 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "September 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "solid sheet sets (fall 2025)"
+      ],
+      "created_at": "2026-05-25T00:42:15.618193"
+    },
+    {
+      "id": "2101858c",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-T",
+      "product_name": "SHEET SET TH 90GSM MF SOLID TWIN",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID TWIN - BRIGHT WHITE",
+      "specifications": {
+        "size": "TWIN",
+        "color": "BRIGHT WHITE"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "57805a82",
+            "quantity": 36,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 36,
+        "total_available_future": 0,
+        "total_all": 36,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 36,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.668756"
+    },
+    {
+      "id": "a7ebea76",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-F",
+      "product_name": "SHEET SET TH 90GSM MF SOLID FULL",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID FULL - BRIGHT WHITE",
+      "specifications": {
+        "size": "FULL",
+        "color": "BRIGHT WHITE"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "e8caaf32",
+            "quantity": 36,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 36,
+        "total_available_future": 0,
+        "total_all": 36,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 36,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.668875"
+    },
+    {
+      "id": "f93e87b5",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-Q",
+      "product_name": "SHEET SET TH 90GSM MF SOLID QUEEN",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID QUEEN - BRIGHT WHITE",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "BRIGHT WHITE"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "c3664c1d",
+            "quantity": 122,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 122,
+        "total_available_future": 0,
+        "total_all": 122,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 122,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.668983"
+    },
+    {
+      "id": "d1fa37fc",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-K",
+      "product_name": "SHEET SET TH 90GSM MF SOLID KING",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID KING - BRIGHT WHITE",
+      "specifications": {
+        "size": "KING",
+        "color": "BRIGHT WHITE"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "9b3a47f3",
+            "quantity": 72,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 72,
+        "total_available_future": 0,
+        "total_all": 72,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 72,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.669128"
+    },
+    {
+      "id": "182199c6",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-T",
+      "product_name": "SHEET SET TH 90GSM MF SOLID TWIN",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID TWIN - GREY ASH",
+      "specifications": {
+        "size": "TWIN",
+        "color": "GREY ASH"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "ba443273",
+            "quantity": 36,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 36,
+        "total_available_future": 0,
+        "total_all": 36,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 36,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.669307"
+    },
+    {
+      "id": "098a1fc1",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-F",
+      "product_name": "SHEET SET TH 90GSM MF SOLID FULL",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID FULL - GREY ASH",
+      "specifications": {
+        "size": "FULL",
+        "color": "GREY ASH"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "9cd34ec0",
+            "quantity": 36,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 36,
+        "total_available_future": 0,
+        "total_all": 36,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 36,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.669410"
+    },
+    {
+      "id": "ed47d803",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-Q",
+      "product_name": "SHEET SET TH 90GSM MF SOLID QUEEN",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID QUEEN - GREY ASH",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "GREY ASH"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "fc0e17ff",
+            "quantity": 122,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 122,
+        "total_available_future": 0,
+        "total_all": 122,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 122,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.669509"
+    },
+    {
+      "id": "924b5c16",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-K",
+      "product_name": "SHEET SET TH 90GSM MF SOLID KING",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID KING - GREY ASH",
+      "specifications": {
+        "size": "KING",
+        "color": "GREY ASH"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "308c0299",
+            "quantity": 72,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 72,
+        "total_available_future": 0,
+        "total_all": 72,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 72,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.669607"
+    },
+    {
+      "id": "a3ab4ec6",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-T",
+      "product_name": "SHEET SET TH 90GSM MF SOLID TWIN",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID TWIN - BLUE SHADOW",
+      "specifications": {
+        "size": "TWIN",
+        "color": "BLUE SHADOW"
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "9bd7f1d2",
+            "quantity": 30,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 30,
+        "total_available_future": 0,
+        "total_all": 30,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 30,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.669821"
+    },
+    {
+      "id": "00fb3a35",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-F",
+      "product_name": "SHEET SET TH 90GSM MF SOLID FULL",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID FULL - BLUE SHADOW",
+      "specifications": {
+        "size": "FULL",
+        "color": "BLUE SHADOW"
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "a645d05a",
+            "quantity": 36,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 36,
+        "total_available_future": 0,
+        "total_all": 36,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 36,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.670025"
+    },
+    {
+      "id": "def58fbe",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-Q",
+      "product_name": "SHEET SET TH 90GSM MF SOLID QUEEN",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID QUEEN - BLUE SHADOW",
+      "specifications": {
+        "size": "QUEEN",
+        "color": "BLUE SHADOW"
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "0d217e88",
+            "quantity": 122,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 122,
+        "total_available_future": 0,
+        "total_all": 122,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 122,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.670158"
+    },
+    {
+      "id": "e5ff80d0",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-K",
+      "product_name": "SHEET SET TH 90GSM MF SOLID KING",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID KING - BLUE SHADOW",
+      "specifications": {
+        "size": "KING",
+        "color": "BLUE SHADOW"
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "a48dd826",
+            "quantity": 72,
+            "arrival_date_iso": "2026-05-25",
+            "arrival_date_display": "May 2026",
+            "status": "in_stock",
+            "is_preorder": false
+          }
+        ],
+        "total_available_now": 72,
+        "total_available_future": 0,
+        "total_all": 72,
+        "status": "in_stock",
+        "status_label": "IN STOCK",
+        "can_order_now": true,
+        "can_preorder": true,
+        "next_arrival": null,
+        "all_batches_summary": [
+          {
+            "quantity": 72,
+            "arrival_date_display": "May 2026",
+            "status": "Available"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.670268"
+    },
+    {
+      "id": "ad2be72a",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-T",
+      "product_name": "SHEET SET TH 90GSM MF SOLID TWIN",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID TWIN - Various Colors",
+      "specifications": {
+        "size": "TWIN",
+        "color": null
+      },
+      "pricing": {
+        "msrp": 55.0,
+        "wholesale_cost": 15.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 19.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 17.6
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 16.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 15.4
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "4ff7fd3a",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "August 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "August 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "August 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.670434"
+    },
+    {
+      "id": "28789d80",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-F",
+      "product_name": "SHEET SET TH 90GSM MF SOLID FULL",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID FULL - Various Colors",
+      "specifications": {
+        "size": "FULL",
+        "color": null
+      },
+      "pricing": {
+        "msrp": 65.0,
+        "wholesale_cost": 18.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 22.75
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 20.8
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 19.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 18.2
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "b5b6b55b",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "August 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "August 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "August 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.670597"
+    },
+    {
+      "id": "1b314544",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-Q",
+      "product_name": "SHEET SET TH 90GSM MF SOLID QUEEN",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID QUEEN - Various Colors",
+      "specifications": {
+        "size": "QUEEN",
+        "color": null
+      },
+      "pricing": {
+        "msrp": 70.0,
+        "wholesale_cost": 19.5,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 24.5
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 22.4
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 21.0
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 19.6
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "b44b51e4",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "August 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "August 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "August 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.670717"
+    },
+    {
+      "id": "25c249b6",
+      "supplier": "Townhouse",
+      "supplier_style_id": "19-400-SLD90-K",
+      "product_name": "SHEET SET TH 90GSM MF SOLID KING",
+      "category": "Bedding",
+      "subcategory": "Microfiber Solids",
+      "description": "SHEET SET TH 90GSM MF SOLID KING - Various Colors",
+      "specifications": {
+        "size": "KING",
+        "color": null
+      },
+      "pricing": {
+        "msrp": 75.0,
+        "wholesale_cost": 21.0,
+        "tiers": [
+          {
+            "discount_percent": 65,
+            "min_quantity": 1,
+            "quantity_description": "1+ units",
+            "wholesale_price": 26.25
+          },
+          {
+            "discount_percent": 68,
+            "min_quantity": 5,
+            "quantity_description": "5+ units",
+            "wholesale_price": 24.0
+          },
+          {
+            "discount_percent": 70,
+            "min_quantity": 10,
+            "quantity_description": "10+ units",
+            "wholesale_price": 22.5
+          },
+          {
+            "discount_percent": 72,
+            "min_quantity": 20,
+            "quantity_description": "20+ units",
+            "wholesale_price": 21.0
+          }
+        ],
+        "currency": "USD"
+      },
+      "availability": {
+        "moq": 1,
+        "case_pack": 1,
+        "estimated_available_date_iso": "2026-07-24",
+        "estimated_available_date_display": "August 2025"
+      },
+      "inventory": {
+        "batches": [
+          {
+            "batch_id": "210ebc5d",
+            "quantity": 0,
+            "arrival_date_iso": "2026-07-24",
+            "arrival_date_display": "August 2025",
+            "status": "pre_order",
+            "is_preorder": true
+          }
+        ],
+        "total_available_now": 0,
+        "total_available_future": 0,
+        "total_all": 0,
+        "status": "pre_order",
+        "status_label": "PRE-ORDER AVAILABLE",
+        "can_order_now": false,
+        "can_preorder": true,
+        "next_arrival": {
+          "date_iso": "2026-07-24",
+          "date_display": "August 2025",
+          "quantity": 1
+        },
+        "all_batches_summary": [
+          {
+            "quantity": 0,
+            "arrival_date_display": "August 2025",
+            "status": "Pre-Order"
+          }
+        ]
+      },
+      "supplier_info": {
+        "vendor_country": "India",
+        "lead_time_days": 60
+      },
+      "image_url": null,
+      "tags": [
+        "townhouse",
+        "microfiber solids"
+      ],
+      "created_at": "2026-05-25T00:42:15.670827"
+    }
+  ],
+  "metadata": {
+    "total_products": 74,
+    "generated_at": "2026-05-25T00:42:15.675640",
+    "brand": "Townhouse",
+    "files_processed": 5
+  }
+}
