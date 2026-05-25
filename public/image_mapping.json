@@ -1,0 +1,6 @@
+{
+  "products_images": {
+    "comment": "Add mappings here in format: 'supplier_style_id': 'filename.jpg'",
+    "example": "MS111': 'townhouse-MS111.jpg"
+  }
+}
