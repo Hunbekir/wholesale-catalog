@@ -181,41 +181,45 @@ export default function App() {
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {filteredProducts.map(product => (
-              <div key={product.id} className="bg-white rounded-lg shadow hover:shadow-lg transition relative">
-                {/* Wishlist Button */}
-                <button
-                  onClick={() => toggleWishlist(product.id)}
-                  className="absolute top-3 right-3 z-10 p-2 rounded-full bg-white shadow hover:bg-gray-50 transition"
-                >
-                  <span className="text-2xl">
-                    {isInWishlist(product.id) ? '❤️' : '🤍'}
-                  </span>
-                </button>
-
-                {/* Image placeholder */}
-                <div className="w-full h-48 bg-gray-200 rounded-t-lg flex items-center justify-center">
-                  <span className="text-gray-400">No image</span>
+              <div key={product.id} className="bg-white rounded-lg shadow hover:shadow-lg transition flex flex-col h-full">
+                {/* Image Container with wishlist button */}
+                <div className="relative">
+                  <div className="w-full h-48 bg-gray-200 flex items-center justify-center">
+                    <span className="text-gray-400">No image</span>
+                  </div>
+                  
+                  {/* Wishlist Button - Top Right */}
+                  <button
+                    onClick={() => toggleWishlist(product.id)}
+                    className="absolute top-3 right-3 p-2 rounded-full bg-white shadow hover:bg-gray-50 transition"
+                  >
+                    <span className="text-2xl">
+                      {isInWishlist(product.id) ? '❤️' : '🤍'}
+                    </span>
+                  </button>
                 </div>
 
-                {/* Stock Badge */}
-                {product.inventory.status === 'in_stock' && (
-                  <div className="absolute top-3 left-3 px-2 py-1 bg-green-100 text-green-800 text-xs font-semibold rounded">
-                    ✓ IN STOCK
-                  </div>
-                )}
-                {product.inventory.status === 'pre_order' && (
-                  <div className="absolute top-3 left-3 px-2 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded">
-                    📅 PRE-ORDER
-                  </div>
-                )}
+                {/* Stock Badge - Below image, full width */}
+                <div className="px-4 pt-3">
+                  {product.inventory.status === 'in_stock' && (
+                    <div className="inline-block px-3 py-1 bg-green-100 text-green-800 text-xs font-semibold rounded-full">
+                      ✓ IN STOCK
+                    </div>
+                  )}
+                  {product.inventory.status === 'pre_order' && (
+                    <div className="inline-block px-3 py-1 bg-blue-100 text-blue-800 text-xs font-semibold rounded-full">
+                      📅 PRE-ORDER
+                    </div>
+                  )}
+                </div>
 
                 {/* Content */}
-                <div className="p-4">
-                  <h3 className="font-semibold text-gray-900 line-clamp-2">{product.product_name}</h3>
-                  <p className="text-sm text-gray-600 mt-1">{product.supplier}</p>
+                <div className="p-4 flex flex-col flex-1">
+                  <h3 className="font-semibold text-gray-900 line-clamp-2 mb-2">{product.product_name}</h3>
+                  <p className="text-sm text-gray-600 mb-3">{product.supplier}</p>
                   
                   {/* Inventory Info */}
-                  <div className="mt-3 text-sm">
+                  <div className="mt-2 text-sm mb-4">
                     {product.inventory.status === 'in_stock' && (
                       <p className="text-green-700 font-medium">
                         {product.inventory.total_available_now} in stock
@@ -231,20 +235,22 @@ export default function App() {
                   </div>
 
                   {/* Pricing */}
-                  <div className="mt-4 flex items-baseline gap-2">
-                    <span className="text-2xl font-bold text-gray-900">
-                      \${(product.pricing.msrp * 0.35).toFixed(2)}
-                    </span>
-                    <span className="text-sm text-gray-500 line-through">
-                      \${product.pricing.msrp.toFixed(2)}
-                    </span>
-                    <span className="text-xs font-semibold text-green-700">65% OFF</span>
+                  <div className="mt-auto mb-4">
+                    <div className="flex items-baseline gap-2">
+                      <span className="text-2xl font-bold text-gray-900">
+                        \${(product.pricing.msrp * 0.35).toFixed(2)}
+                      </span>
+                      <span className="text-sm text-gray-500 line-through">
+                        \${product.pricing.msrp.toFixed(2)}
+                      </span>
+                      <span className="text-xs font-semibold text-green-700">65% OFF</span>
+                    </div>
                   </div>
 
                   {/* Button */}
                   <button
                     onClick={() => setSelectedProduct(product)}
-                    className="w-full mt-4 px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 font-medium"
+                    className="w-full px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 font-medium"
                   >
                     View Details
                   </button>
